@@ -1,1 +1,1 @@
-All the Kata solutions 🥋 😺
+# All the Kata solutions 🥋 😺
